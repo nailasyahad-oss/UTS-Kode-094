@@ -3,6 +3,8 @@
 **Naila Qanitah Syahad** (12030124130094)
 Dosen Pengampu: Dr. Totok Dewayanto, S.E., M.Si., Akt.
 
+**Repositori GitHub:** [UTS-Kode-094](https://github.com/nailasyahad-oss/UTS-Kode-094)
+
 ---
 
 ## Daftar Isi
